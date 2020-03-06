@@ -5,8 +5,13 @@
   - [Experimental datasets in torchtext 0.5.0 release](https://github.com/pytorch/text/issues/664)
 
 
-## TBC
-
+## 系列文章(TBC)
+- 机器学习中的优化方法：[ref](https://blog.csdn.net/sunflower_sara/article/details/100558156)
+- 从EM到CRF
+- Boost系列
+- github使用
+- Leetcode系列
+- 推荐系统handbook
 
 
 -----------------------------------------------------------------------------------------
