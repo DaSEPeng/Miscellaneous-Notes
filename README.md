@@ -3,7 +3,9 @@
   - [Python yield 使用浅析](https://www.runoob.com/w3cnote/python-yield-used-analysis.html)
 - TorchText中新的API
   - [Experimental datasets in torchtext 0.5.0 release](https://github.com/pytorch/text/issues/664)
-- [Python中的修饰器](https://blog.csdn.net/weixin_35653315/article/details/78052023)
+- python中的@：
+  - [谈谈python修饰器](https://www.jianshu.com/p/ab702e4d4ba7)
+
 ## 推荐系统
 - 现在的推荐系统一直推荐已经购买的商品也不是完全不可以，还是要看商品的种类，如果是零食，还是要推荐零食的，如果是汽车，就应该推荐汽车的周边了
 
