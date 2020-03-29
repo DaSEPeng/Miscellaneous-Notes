@@ -8,6 +8,7 @@
 
 ## 待整理文章
 - [Batch Normalization 与Dropout 的冲突](https://www.cnblogs.com/cbattle/p/9475361.html)
+- [BN和Dropout在训练和测试时的差别](https://zhuanlan.zhihu.com/p/61725100)
 
 ## 推荐系统
 - 现在的推荐系统一直推荐已经购买的商品也不是完全不可以，还是要看商品的种类，如果是零食，还是要推荐零食的，如果是汽车，就应该推荐汽车的周边了
