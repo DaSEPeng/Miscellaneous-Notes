@@ -7,6 +7,8 @@
   - [谈谈python修饰器](https://www.jianshu.com/p/ab702e4d4ba7)
 - PyTorch中的ganter()
   - [Stackoverflow](https://stackoverflow.com/questions/50999977/what-does-the-gather-function-do-in-pytorch-in-layman-terms)
+- PyTorch内存够用但是显示out of memory：
+  - 尝试一下清空缓存：torch.cuda.empty_cache()
 
 ## 待整理文章
 - [Batch Normalization 与Dropout 的冲突](https://www.cnblogs.com/cbattle/p/9475361.html)
