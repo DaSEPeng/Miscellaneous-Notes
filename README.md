@@ -33,6 +33,7 @@
 - 能否将电流/水流模型的一些特征融入到网络呢？
 - 啊！音乐！音乐！音乐响起来，烦躁的心就静了下来，就能安心学习了（2020/04/23）
 - 为什么不弄一个中国版本的piazza呢
+- 一段神奇的代码：window.videojs.getPlayers().html5player.children_.filter(ele => ele.getAttribute && ele.getAttribute('id') === 'html5player_html5_api')[0].playbackRate=2
 
 ## 《深度学习》要点备忘
 - 平方L2范数容易求导，但是在原点附近增长缓慢；当机器学习问题中零和非零元素之间的差异非常重要时，通常会使用L1范数；L1范数经常作为表示非零元素数目的替代函数。
